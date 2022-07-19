@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px;
+    text-shadow: 10px 5px 20px#888;
+}
+h3{
+    font-weight: 100;
+    font-weight: bolder;
+    margin-block-end: auto;
+}
+.icon-area{
+    margin: 10px;
+    margin-bottom: 10px;
+
+}
+.container{
+    width: 40%;
+    margin: left;
+}
+.icon-area ul{
+    list-style: none;
+}
+.icon-area ul li{
+    display: inline;
+}
+.icon-area ul li a{
+    background-color: rgb(241, 246, 251);
+    font-size: 40px;
+    padding: 10px 20px;
+    box-shadow: 9px 5px 17px black;
+}
+.more{
+    margin-left: 45px;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 9px 5px 17px black;
+}
+.more a{
+    text-decoration: none;
+    color: black;
+}
